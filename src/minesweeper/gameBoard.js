@@ -164,9 +164,6 @@ function MineSweeperGameBoard({minesweeper , player}) {
         //console.log('expert', expertBoard, rows);
     }
 
-    
-
-    //console.log(grid);
 
     function checkWin(){
         let Iwin = 0;
